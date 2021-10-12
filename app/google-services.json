@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267051636987",
+    "firebase_url": "https://motivational-quotes-bcb15.firebaseio.com",
+    "project_id": "motivational-quotes-bcb15",
+    "storage_bucket": "motivational-quotes-bcb15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267051636987:android:c6331539b6ea83371f385e",
+        "android_client_info": {
+          "package_name": "com.xahid.motivational_quotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267051636987-mn1l99c7oubd751erjsjddrinommo5hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xahid.motivational_quotes",
+            "certificate_hash": "a09bf083b2d67994b38a6deb8655e2b794f7ce6a"
+          }
+        },
+        {
+          "client_id": "267051636987-e0vnnond1f0va43ef1e83biubdfv90f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBggs0qOjo8ieR8cPkCUmsRIDNj6oiN-24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267051636987-e0vnnond1f0va43ef1e83biubdfv90f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
